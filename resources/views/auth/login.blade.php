@@ -20,7 +20,7 @@
 
 
 
-    <title>{{  'leave555' }}</title>
+    <title>{{  'leave' }}</title>
       <link rel="shortcut icon" type="image/x-icon" href="{{ URL::to('/') }}/assets/img/icon_i2.png" />
 
 
